@@ -1,2 +1,2 @@
 #include <stdio.h>
-#include <libjpeg.h>
+#include <jpeglib.h>
